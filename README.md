@@ -2,6 +2,7 @@
 A tic tac toe game that can be played with 1 other person given their IP address.
 
 __Files__
+
 *Client.java - Runs the client side of the Tic Tac Toe game
 
 *TicTacToeClient.java - Contains the logic for the client side of the tic tac toe game
