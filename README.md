@@ -1,4 +1,9 @@
 # TcpTicTacToe
+
+![TcpTicTacToe](https://user-images.githubusercontent.com/43594702/119719304-7ae3a380-be1d-11eb-91d2-2f31706ac4db.png)
+
+[See it in action!](https://www.youtube.com/watch?v=cR52JDZ7pR0)
+
 A tic tac toe game that can be played with 1 other person given their IP address.
 
 __Files__
